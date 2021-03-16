@@ -1,0 +1,4 @@
+example\demo\springboot\AppConfig.class
+example\demo\springboot\controller\ControllerConfig.class
+example\demo\springboot\SpringBootBundleActivator.class
+example\demo\springboot\controller\HomeController.class
